@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gerald
-- 👀 I’m interested in Website development 
-- 🌱 I’m currently learning Node.js for back-end development.
-- 💞️ I’m looking to collaborate on Front-end projects
+- 👀 I’m interested in tech
+- 🌱 I’m currently learning how to build back-end applications and REST API.
+- 💞️ I’m looking to collaborate on React projects
 - 📫 You can reach me on my gmail at. egerald344@gmail.com or at +2348070511659
 
 <!---
